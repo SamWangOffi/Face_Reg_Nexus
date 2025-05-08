@@ -22,7 +22,7 @@ FACE_REG_NEXUS/
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 - Python 3.8+
 - PostgreSQL (running locally or remotely)
@@ -80,7 +80,7 @@ python outlook_sync.py
 
 ---
 
-## 🔌 API Endpoints Overview
+##  API Endpoints Overview
 
 | Endpoint               | Method | Description                             |
 |------------------------|--------|-----------------------------------------|

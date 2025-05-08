@@ -1,7 +1,9 @@
-ultralytics==8.0.20
-opencv-python
-numpy
 flask
-psycopg2
+psycopg2-binary
 O365
-yolox
+numpy
+# Optional: These packages are large, consider letting teammates install manually
+# opencv-python
+# ultralytics>=8.0.20,<9.0.0
+# torch==2.1.2
+# yolox==0.3.0
